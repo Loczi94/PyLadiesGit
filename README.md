@@ -1,2 +1,2 @@
 # PyLadiesGit
-Task to learn Git and GitHub.
+Repository created in order to learn how to use Git and GitHub.
